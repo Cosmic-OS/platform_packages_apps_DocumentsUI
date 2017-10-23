@@ -15,6 +15,9 @@
 -->
 
 <resources>
+    <color name="app_icon_background">#ff4688f2</color>
+    <color name="downloads_icon_background">#ff4b4b4b</color>
+
     <!-- This is the window background, but also the background for anything
          else that needs to manually declare a background matching the "default"
          app background (e.g. the drawer overlay). -->
